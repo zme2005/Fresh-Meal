@@ -82,9 +82,9 @@ fresh-meal/
 
 Zeyad Essawy
 
-GitHub: @your-username
+GitHub: zme2005
 
-LinkedIn: (add your link)
+LinkedIn: www.linkedin.com/in/zeyad-mohammed-78aa06362
 
 📜 License
 
